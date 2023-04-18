@@ -1,0 +1,119 @@
+body {
+    font-size: 15pt;
+    font-family: serif;
+}
+.div1{
+  background-color: white;
+  height: 100px;
+  width: 80px;
+  border: 1px solid gray;
+  margin-left: 10px;
+}
+.div2{
+  background-color: white;
+  height: 100px;
+  width: 80px;
+  border: 1px solid gray;
+}
+.div3{
+  background-color: white;
+  height: 100px;
+  width: 80px;
+  border: 1px solid gray;
+}
+.div4{
+  background-color: white;
+  height: 100px;
+  width: 80px;
+  border: 1px solid gray;
+}
+.container{
+  display: flex;
+  align-items: center;
+  
+
+}
+.container2{
+  display: flex;
+  align-items: center;
+  
+}
+.div{
+  background-color: orange;
+  height: 50px;
+  width: 80px;
+  border: 1px solid gray;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("image/istockphoto-3.jpg");
+  
+ 
+}
+.days{
+  background-color: orange;
+  height: 150px;
+  display:flex;
+  align-items: center;
+  
+  
+}
+#day{
+  margin-left: 10px;
+}
+.days>h3{
+padding: 50px;
+  color: white;
+}
+.discrip{
+  background-color: none;
+  height:250px;
+}
+.discrip>h3{
+  color: white;
+  margin-left: 5px;
+}
+.discrip>p{
+  color: white;
+  margin-left: 5px;
+ 
+  
+  
+}
+.count{
+  font-size: 30px;
+}
+.head >h1{
+  color: white;
+  font-style: italic;
+  align-items: center;
+  
+ 
+}
+.head>span{
+  color: gold;
+  font-size: 23px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.head{
+  height: 150px;
+}
+.div1>h1{
+  font-size:50px;}
+  .div2>h1{
+  font-size:50px;}
+  .div3>h1{
+  font-size:50px;}
+  .div4>h1{
+  font-size:50px;}
+.copy{
+  background-color: black;
+ 
+}
+.copy>p{
+  color:white;
+  font-size: 15px;
+}
